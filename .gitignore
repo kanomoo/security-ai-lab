@@ -1,0 +1,24 @@
+# Python, Virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Configuration & Secrets
+.env
+config.local.json
+*.key
+*.token
+
+# Logs & Temporary files
+*.log
+temp/
+tmp/
+.ipynb_checkpoints/
+
+# OS specific
+.DS_Store
+Thumbs.db
